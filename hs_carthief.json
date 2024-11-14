@@ -1,8 +1,7 @@
 {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "descriptions": [
-        "Rewrote the entire UI to Vue.js",
-        "Corrected translation files",
-        "Improved command from top 10",
+        "The log system has been secured",
+        "Moved log system config.lua > server_open.lua",
     ]
 }
