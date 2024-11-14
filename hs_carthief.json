@@ -1,4 +1,8 @@
 {
-    "version": "1.0.0",
-    "descriptions": []
+    "version": "1.0.1",
+    "descriptions": [
+        "Rewrote the entire UI to Vue.js",
+        "Corrected translation files",
+        "Improved command from top 10",
+    ]
 }
