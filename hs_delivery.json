@@ -1,4 +1,12 @@
 {
-    "version": "1.0.0",
-    "descriptions": []
+    "version": "1.0.1",
+    "descriptions": [       
+        "- Top 10 vendors added",
+        "- Wrote UI for top 10 suppliers",
+        "- Added export",
+        "- Added German language",
+        "- Added ability to integrate script with discord",
+        "- Added possibility to connect a rank from discord which will receive an earnings boost",
+        "- Added possibility to use the script without having a target system",
+    ]
 }
