@@ -1,4 +1,7 @@
 {
-    "version": "1.0.0",
-    "descriptions": []
+    "version": "1.0.2",
+    "descriptions": [
+        "The log system has been secured",
+        "Moved log system config.lua > server_open.lua",
+    ]
 }
